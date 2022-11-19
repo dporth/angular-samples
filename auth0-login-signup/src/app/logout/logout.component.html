@@ -1,0 +1,5 @@
+<div id="top-left" *ngIf="auth.isAuthenticated$ | async">
+    <button (click)="auth.logout({ returnTo: document.location.origin })">
+        <span id="button-text">Log out</span>
+    </button>
+</div>
