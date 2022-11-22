@@ -13,3 +13,4 @@ Various resources were used to create the final product of this demonstration. N
 
 1. [`Auth0 Tutorial`](https://auth0.com/docs/quickstart/spa/angular/01-login)
     a. Follow this tutorial only to "Install the Auth0 Angular SDK" section
+2. [`Supplemental Auth0 Material`](https://developer.auth0.com/resources/guides/spa/angular/basic-authentication)
